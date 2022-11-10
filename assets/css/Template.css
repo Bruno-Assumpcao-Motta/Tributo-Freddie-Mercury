@@ -1,11 +1,14 @@
 body {
     margin: 0;
     justify-content: center;
+    background-color: #555;
+    
 }
 header {
     position: center;
     display: flex;
     flex-direction: column;
+    background-color: #999;
 }
 h1 {
     margin: 20px;
@@ -45,7 +48,7 @@ article {
     font-size: 20px;
 }
 footer {
-    margin: 20px;
+    
     display: flex;
     justify-content: center;
     position: center;
